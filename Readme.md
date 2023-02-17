@@ -1,4 +1,4 @@
-Instructions for completing the Hargreaves Lansdown XCUITest take home test
+Instructions for XCUITest take home test
 ===
 
 
