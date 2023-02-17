@@ -36,10 +36,3 @@ Expectations
 4. Presentation of the code is as important as functioning code. The submission should be treated as if it were a merge request waiting to be peer reviewed.
 5. The use of Xcode's test recording feature will be rejected, the quality of code generated is usually poor.
 6. The choice of variable/function names is important and will be considered as part of the assessment.
-
-
-Hints
----
-
-1. You will be assessed on both code and presentation.
-2. Keep it simple. The goal is to make the test pass with as few lines of code as possible whilst still being readable and easy to understand.
